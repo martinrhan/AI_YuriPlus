@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-Icon_Swap",
+      "appliesTo": "Icon_Swap.png",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-Icon_Swap",
+      "appliesTo": "Icon_Swap.png",
+      "type": "launch"
+    }
+  ]
+}
